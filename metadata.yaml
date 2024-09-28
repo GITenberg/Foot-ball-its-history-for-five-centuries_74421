@@ -1,5 +1,8 @@
 _repo: Foot-ball-its-history-for-five-centuries_74421
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74421-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Shearman, Montague
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '57497'
     url: http://www.gutenberg.org/2009/agents/57497
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74421#Foot-ball-its-history-for-five-centuries
 gutenberg_issued: '2024-09-16'
 gutenberg_type: Text
 identifiers:
